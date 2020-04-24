@@ -5,3 +5,6 @@ shirts
 
 t-shirts
 pants
+
+jeans
+sandils
