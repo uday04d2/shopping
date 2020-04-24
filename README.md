@@ -8,3 +8,7 @@ pants
 
 jeans
 sandils
+
+
+slippers
+kurtha
