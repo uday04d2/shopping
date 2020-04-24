@@ -1,1 +1,4 @@
 # shopping
+
+shoes
+shirts
