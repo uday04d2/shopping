@@ -2,3 +2,6 @@
 
 shoes
 shirts
+
+t-shirts
+pants
